@@ -52,4 +52,18 @@ source env/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
+```
 ---
+
+# 🤝 Author
+
+Made with  by ** Muhammad Kashif**  
+📧 Contact: mkashifkhanai@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammadxkashif) • [GitHub](https://github.com/kashifkhanai)
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+----
+
