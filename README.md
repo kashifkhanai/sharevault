@@ -51,6 +51,8 @@ source env/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
+---
+
 ## 🤝 Author
 
 Made with  by ** Muhammad Kashif**  
