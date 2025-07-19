@@ -39,6 +39,7 @@ Welcome to **ShareVault**, a secure and efficient file-sharing service built usi
 
 ### 📥 Installation
 
+---
 ```bash
 # Clone the repo
 git clone https://github.com/kashifkhanai/sharevault.git
@@ -52,14 +53,3 @@ source env/bin/activate
 pip install -r requirements.txt
 
 ---
-
-## 🤝 Author
-
-Made with  by ** Muhammad Kashif**  
-📧 Contact: mkashifkhanai@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadxkashif) • [GitHub](https://github.com/kashifkhanai)
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
-
